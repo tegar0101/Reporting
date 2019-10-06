@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding: utf-8
-# copyright: DulLah
+# copyright: Tegar Conqueror
 
 """
    JANGAN REPORT AKUN YANG GAK BERSALAH
@@ -334,7 +334,8 @@ def banner():
  |  |(_| | (_)  |  \(/,[_)(_)[   |  
                        | 
 %s #%s ©2019
-%s #%s BY: DulLah %s
+%s #%s Created : Team Voldemort
+%s #%s BY: Tegar Conqueror %s
 """%( C,H,M,H,M,P )
 
 try:
