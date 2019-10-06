@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding: utf-8
-# copyright: DulLah
+# copyright: Tegar
 
 """
    JANGAN REPORT AKUN YANG GAK BERSALAH
@@ -329,12 +329,12 @@ def cek_cookies():
 	
 def banner():
 	print """%s
- .__.    ,      .__              , 
- [__]. .-+- _   [__) _ ._  _ ._.-+- 
- |  |(_| | (_)  |  \(/,[_)(_)[   |  
-                       | 
+ ╔════•ೋೋ•════╗ 
+         AUTO REPORTING
+            -VOLDEMORT-
+╚════•ೋೋ•════╝
 %s #%s ©2019
-%s #%s BY: DulLah %s
+%s #%s BY: Tegar %s
 """%( C,H,M,H,M,P )
 
 try:
