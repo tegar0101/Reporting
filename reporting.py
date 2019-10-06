@@ -328,7 +328,7 @@ def cek_cookies():
 	else:login()
 	
 def banner():
-	print """%s
+     print """%s
 
 ╔════•ೋೋ•════╗ 
          AUTO REPORTING
