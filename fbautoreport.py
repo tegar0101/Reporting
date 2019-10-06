@@ -329,10 +329,12 @@ def cek_cookies():
 	
 def banner():
 	print """%s
- ╔════•ೋೋ•════╗ 
-         AUTO REPORTING
-            -VOLDEMORT-
+	╔════•ೋೋ•════╗ 
+ AUTO REPORTING
+ -VOLDEMORT-
+WA : 0895618031306
 ╚════•ೋೋ•════╝
+
 %s #%s ©2019
 %s #%s BY: Tegar %s
 """%( C,H,M,H,M,P )
