@@ -329,11 +329,12 @@ def cek_cookies():
 	
 def banner():
 	print """%s
-	╔════•ೋೋ•════╗ 
- AUTO REPORTING
- -VOLDEMORT-
-WA : 0895618031306
-╚════•ೋೋ•════╝
+	▂ ▃ ▅🥀☠ீ͜ৡৢ͜͡  REPORTINGீ͜ৡৢ͜͡✦☠🥀​▅ ▃ ▂
+
+☑ Author: (Moonza x Foldemort)
+☑ Wa: (0895618031306)
+☑ Email: (moonata404@yahoo.com)
+☑ GitHub: https://github.com/tegar001
 
 %s #%s ©2019
 %s #%s BY: Tegar %s
