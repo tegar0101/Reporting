@@ -336,7 +336,7 @@ def banner():
 ☑ Email: moonata404@yahoo.com.
 ☑ GitHub: https://github.com/tegar001.
 ☆ ════════ •⊰❂⊱• ════════ ☆
-%s #%s ©2019
+%s #%s FB: Tegar Pratama
 %s #%s ☾ Voldemort ☽ %s
 """%( C,H,M,H,M,P )
 
